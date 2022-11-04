@@ -2063,17 +2063,17 @@ function runnung() {
   ];
   var CountryFlags = [
     "https://bucket.cpabuild.com/uploads/15607243478ec0f0ae1d85a6b0b3731e1825fee7b9.png",
-    "../bucket.cpabuild.com/uploads/15607243487b6967c38cea3b7ea21936245cff7277.png",
-    "../bucket.cpabuild.com/uploads/1560724349125b63d38fff10f9c51b607693618386.png",
-    "../bucket.cpabuild.com/uploads/1560724349732b2b450ebe20cf2f679de8a1f60870.png",
-    "../bucket.cpabuild.com/uploads/1560724350dc58d5eae9bfee87fa27daf5308be04f.png",
-    "../bucket.cpabuild.com/uploads/1560724809a04ffa00ea500236a4c4ff74d505ef86.png",
-    "../bucket.cpabuild.com/uploads/1560724350c03f2c2e31bd0000277806bae6a65e73.png",
-    "../bucket.cpabuild.com/uploads/15607243501e23aaf7f14cfa891e8986096102e36f.png",
-    "../bucket.cpabuild.com/uploads/15607243519cb5f559575f70420393a2225b0869e6.png",
-    "../bucket.cpabuild.com/uploads/15607243513a01081519b9ecc341c5e0b38fe15403.png",
-    "../bucket.cpabuild.com/uploads/1560724352327eebab7992366d26f10c75f59a2f78.png",
-    "../bucket.cpabuild.com/uploads/15607243525258f32da5af7440a76a2f308e20e52d.png",
+    "../../bucket.cpabuild.com/uploads/15607243487b6967c38cea3b7ea21936245cff7277.png",
+    "../../bucket.cpabuild.com/uploads/1560724349125b63d38fff10f9c51b607693618386.png",
+    "../../bucket.cpabuild.com/uploads/1560724349732b2b450ebe20cf2f679de8a1f60870.png",
+    "../../bucket.cpabuild.com/uploads/1560724350dc58d5eae9bfee87fa27daf5308be04f.png",
+    "../../bucket.cpabuild.com/uploads/1560724809a04ffa00ea500236a4c4ff74d505ef86.png",
+    "../../bucket.cpabuild.com/uploads/1560724350c03f2c2e31bd0000277806bae6a65e73.png",
+    "../../bucket.cpabuild.com/uploads/15607243501e23aaf7f14cfa891e8986096102e36f.png",
+    "../../bucket.cpabuild.com/uploads/15607243519cb5f559575f70420393a2225b0869e6.png",
+    "../../bucket.cpabuild.com/uploads/15607243513a01081519b9ecc341c5e0b38fe15403.png",
+    "../../bucket.cpabuild.com/uploads/1560724352327eebab7992366d26f10c75f59a2f78.png",
+    "../../bucket.cpabuild.com/uploads/15607243525258f32da5af7440a76a2f308e20e52d.png",
     "https://bucket.cpabuild.com/uploads/1560724353f7e9cf53bb5de3f2e15e148a40c52406.png",
   ];
   var Platforms = [
